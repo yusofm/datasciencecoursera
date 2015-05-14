@@ -1,4 +1,4 @@
 ## datasciencecoursera
 
-*test updating
-*test updating 2 
+* test updating
+* test updating 2 
